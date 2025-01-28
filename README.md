@@ -1,15 +1,5 @@
 # TO_DO_List-using-Flask
-A simple web-based to-do list app where users can add, delete, and mark tasks as complete.
 
-ChatGPT
-
-You said:
-Give 2 small flask projects 
-ChatGPT said:
-ChatGPT
-Here are two small Flask project ideas:
-
-1. To-Do List Application
 Description: A simple web-based to-do list app where users can add, delete, and mark tasks as complete.
 
 Features:
